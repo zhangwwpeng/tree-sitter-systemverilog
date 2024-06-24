@@ -36,11 +36,3 @@ dist/
 *.wasm
 *.obj
 *.o
-
-# bindings
-/bindings/*/
-*.toml
-Makefile
-*.swift
-*.json
-*.py
